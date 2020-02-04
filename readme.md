@@ -1,4 +1,4 @@
-Apply Auhtorization In Node
+Apply Authorization In Node
 
 Install Packages
 
